@@ -1,0 +1,7 @@
+Column Name	Data Type	Non-Null Count	Description
+Customer Reference ID	Integer	3,400	A unique identifier for each customer.
+Item Purchased	String	3,400	The name of the fashion item purchased.
+Purchase Amount (USD)	Float	2,750	The purchase price of the item in USD (650 missing values).
+Date Purchase	String	3,400	The date the purchase was made (format: DD-MM-YYYY).
+Review Rating	Float	3,076	The customer review rating (scale: 1 to 5, 324 missing values).
+Payment Method	String	3,400	The payment method used (e.g., Credit Card, Cash)
