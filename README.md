@@ -13,32 +13,12 @@ It aims to deliver clear insights on customer behavior, product trends, and sale
 ✅ Build interactive BI dashboards (Power BI / Tableau)
 
 🛠️ Tools & Technologies
-Python (Pandas, Matplotlib, Seaborn)
-
-Jupyter Notebook
-
-Power BI or Tableau (for final dashboards)
-
-Data storytelling & BI principles
-
-📂 Project Structure
-markdown
-Copy
-Edit
-├── data/
-│   └── fashion_sales.csv          # Sales dataset
-├── notebooks/
-│   └── FashionSalesAnalysis.ipynb # Full EDA & visualization notebook
-├── dashboards/
-│   ├── fashion_sales_dashboard.pbix # Power BI dashboard (optional)
-│   └── fashion_sales_dashboard.twb  # Tableau dashboard (optional)
-├── README.md
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Power BI or Tableau (for final dashboards)
+- Data storytelling & BI principles
 
 
-🚀 Future Enhancements
-Add predictive sales forecasting
-
-Build a product recommendation system
 
 Enhance dashboards with interactive filters
 
